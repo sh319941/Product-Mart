@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "productName": "POCO F1",
+      "productDesc": "The first flagship smartphone from POCO by Xiaomi. The POCO F1 sports Qualcomm flagship Snapdragon 845 processor,",
+      "manufacturer": "POCO",
+      "quantity": "01",
+      "price": "24999",
+      "id": 3,
+      "count": 5,
+      "userId": 1
+    },
+    {
+      "productName": "Apple iPhone 11",
+      "productDesc": " iPhone, USB-C to Lightning Cable, Documentation",
+      "manufacturer": "Apple",
+      "quantity": "10",
+      "price": "56999",
+      "id": 4,
+      "count": 4,
+      "userId": 2
+    },
+    {
+      "productName": "Redmi 9i ",
+      "productDesc": " Work or play, the Redmi 9i is an ideal companion that helps you go through your everyday tasks with ease.",
+      "manufacturer": "RedMi",
+      "quantity": "02",
+      "price": "8299",
+      "id": 5,
+      "count": 2,
+      "userId": 2
+    },
+    {
+      "productName": "Infinix Smart HD 2021",
+      "productDesc": " With the Infinix Smart HD 2021, enjoy an immersive experience while watching your favorite shows, browsing the internet, or playing your favourite games.",
+      "manufacturer": "Infinix Smart",
+      "quantity": "01",
+      "price": "5999",
+      "count": 2,
+      "userId": 2,
+      "rating": 5,
+      "id": 6
+    },
+    {
+      "productName": "Samsung Galaxy F41",
+      "productDesc": " The Samsung Galaxy F41 is a phone you can count on for almost everything! When you have to click a picture of your family",
+      "manufacturer": "Samsung ",
+      "quantity": "02",
+      "price": "16499",
+      "id": 7,
+      "count": 1,
+      "rating": 2,
+      "userId": 1
+    },
+    {
+      "productName": "Realme Narzo 20 ",
+      "productDesc": " If a long-lasting battery is what you seek in a smartphone, then consider this realme smartphone. Packed with a 6,000-mAh battery,",
+      "manufacturer": "Realme",
+      "quantity": "01",
+      "price": "10499",
+      "count": 3,
+      "userId": 1,
+      "rating": 2,
+      "id": 8
+    },
+    {
+      "productName": "Realme 7i ",
+      "productDesc": "From clear pictures to seamless entertainment, everything is possible on the realme 7i smartphone",
+      "manufacturer": "Realme ",
+      "quantity": "01",
+      "price": "12999",
+      "count": 4,
+      "userId": 1,
+      "rating": 4,
+      "id": 9
+    },
+    {
+      "productName": "poco M2",
+      "productDesc": "Style, performance, and innovation - the Poco M2 brings together all these aspects with its 16.58 cm ",
+      "manufacturer": "Poco",
+      "quantity": "01",
+      "price": "9999",
+      "id": 10,
+      "count": 5,
+      "rating": 3,
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Shine",
+      "lastName": "Xavier",
+      "email": "Shine.Xavier@wipro.com",
+      "username": "Shine",
+      "password": "1234",
+      "location": "Bangalore",
+      "mobileNumber": "9999999999",
+      "cart": {
+        "id": 1
+      }
+    },
+    {
+      "firstName": "Testing",
+      "lastName": "Testing",
+      "email": "Testing@gmail.com",
+      "username": "Test",
+      "password": "123",
+      "location": "Test",
+      "mobileNumber": "9999999999",
+      "cart": [],
+      "id": 2
+    }
+  ]
+}
