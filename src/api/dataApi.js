@@ -1,5 +1,5 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'http://localhost:3110'
+    baseURL: 'https://my-json-server.typicode.com/sh319941/Product-Mart-API'
 })
